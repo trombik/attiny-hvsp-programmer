@@ -1052,7 +1052,7 @@
     (property "Value" "1K" (id 1) (at 186.69 102.8699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 182.372 101.6 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical" (id 2) (at 182.372 101.6 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 101.6 0)
@@ -1349,7 +1349,7 @@
     (uuid 9bd26667-7aec-4f01-b281-ed37f6be521d)
     (property "Reference" "R1" (id 0) (at 130.81 105.41 90))
     (property "Value" "10K" (id 1) (at 130.81 107.95 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 130.81 113.538 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" (id 2) (at 130.81 113.538 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 130.81 111.76 0)
@@ -1527,13 +1527,13 @@
       (reference "Q1") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline_Wide")
     )
     (path "/9bd26667-7aec-4f01-b281-ed37f6be521d"
-      (reference "R1") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R1") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/70979d8d-7d16-4233-b64a-7f5fcbfd654d"
       (reference "R2") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/22b6037c-bee4-4138-b602-f65572c3fab0"
-      (reference "R3") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R3") (unit 1) (value "1K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
     )
     (path "/23c5875a-5355-4112-9f35-97b3e8a23352"
       (reference "U1") (unit 1) (value "ATtiny85-20P") (footprint "Package_DIP:DIP-8_W7.62mm")
