@@ -4,6 +4,10 @@ Check out the full story behind this: [Removing a curse from ATtiny85 Fuses](htt
 
 If you want to make your own, take a look at [the wiring tutorial](https://www.hackster.io/sbinder/attiny85-powered-high-voltage-avr-programmer-3324e1).
 
+## Schematic
+
+![Schematic](kicad/attiny-hvsp-programmer.svg)
+
 ## Compiling
 
 To compile and flash this code, first install [Arduino ATtiny core](https://github.com/damellis/attiny).
